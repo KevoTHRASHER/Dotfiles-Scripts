@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/motoko/Escritorio/Gabriela Ita-ii Mijangos Zamudio/Pilas Estaticas TAD'
+let g:netrw_dirhist_6='/home/motoko/Escritorio/eod/ListaS'
+let g:netrw_dirhist_5='/home/motoko/Escritorio/eod/listaGraficos'
+let g:netrw_dirhist_4='/home/motoko/Escritorio/eod'
+let g:netrw_dirhist_3='/home/motoko/Escritorio/eod/listaGraficos'
+let g:netrw_dirhist_2='/home/motoko/Escritorio/eod'
+let g:netrw_dirhist_1='/home/motoko/tank2D_java/.settings'
